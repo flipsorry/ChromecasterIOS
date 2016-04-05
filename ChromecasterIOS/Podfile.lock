@@ -1,0 +1,15 @@
+PODS:
+  - google-cast-sdk (2.10.4):
+    - google-cast-sdk/Assets (= 2.10.4)
+    - google-cast-sdk/Core (= 2.10.4)
+  - google-cast-sdk/Assets (2.10.4):
+    - google-cast-sdk/Core
+  - google-cast-sdk/Core (2.10.4)
+
+DEPENDENCIES:
+  - google-cast-sdk
+
+SPEC CHECKSUMS:
+  google-cast-sdk: eb83ef6b875969e765011c457b254539c0978792
+
+COCOAPODS: 0.39.0
